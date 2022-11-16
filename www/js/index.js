@@ -26,7 +26,7 @@ function onDeviceReady() {
     }
 
     function onError(message){
-        alert("Photo Error Has Occured." + message)
+        alert("Photo Error Has Occured. Please Try Again." + message)
     }
 
 
